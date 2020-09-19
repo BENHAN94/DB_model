@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T14:55:02.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="wPlbfxzDdLKGXA0BIWtw" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T14:56:12.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="l41Nv9eDaINax1gSpbFy" version="13.7.3" type="github">
   <diagram id="9iZNZO0j0jkgSTigeUpT" name="Page-1">
     <mxGraphModel dx="2037" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,18 @@
         </mxCell>
         <mxCell id="PUG3nTG2jhj8GArSebX7-66" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="950" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PUG3nTG2jhj8GArSebX7-67" value="Scheduled_dep_time" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=0;gradientColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUG3nTG2jhj8GArSebX7-68" value="" style="endArrow=none;html=1;exitX=0.628;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=18;exitPerimeter=0;" edge="1" parent="1" source="PUG3nTG2jhj8GArSebX7-67" target="PUG3nTG2jhj8GArSebX7-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="220" as="sourcePoint" />
+            <mxPoint x="835" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUG3nTG2jhj8GArSebX7-69" value="ARRIVAL_&lt;br&gt;AIRPORT" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;sketch=0;gradientColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="210" width="207" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
