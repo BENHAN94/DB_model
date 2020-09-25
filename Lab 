@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T11:36:26.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="ubNnBFznFQBVqRlfb4jx" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T11:38:01.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="ZuEdrwq4x_VvCnwrY2ls" version="13.7.3" type="github">
   <diagram id="_Z368Al2jYhb8NALEizF" name="Page-1">
     <mxGraphModel dx="1123" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,6 +24,16 @@
         </mxCell>
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-7" value="COURSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xEg9DxGpJhQ12IQhxB_p-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="xEg9DxGpJhQ12IQhxB_p-9" target="xEg9DxGpJhQ12IQhxB_p-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="470" />
+              <mxPoint x="610" y="470" />
+              <mxPoint x="610" y="360" />
+              <mxPoint x="180" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-9" value="Course#" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="80" height="40" as="geometry" />
@@ -64,6 +74,16 @@
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-26" value="Course#" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xEg9DxGpJhQ12IQhxB_p-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="xEg9DxGpJhQ12IQhxB_p-27" target="xEg9DxGpJhQ12IQhxB_p-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="340" />
+              <mxPoint x="530" y="340" />
+              <mxPoint x="530" y="240" />
+              <mxPoint x="178" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-27" value="Sid" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="70" height="40" as="geometry" />
         </mxCell>
@@ -72,6 +92,9 @@
         </mxCell>
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-39" value="FName" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="300" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEg9DxGpJhQ12IQhxB_p-42" value="Book_ISBN" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
