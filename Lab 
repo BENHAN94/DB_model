@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T11:42:23.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="f5lAaTcY89emACNDSvPT" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T12:59:38.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="dVJtVSgDDZJcZfKGibNL" version="13.7.3" type="github">
   <diagram id="_Z368Al2jYhb8NALEizF" name="Page-1">
     <mxGraphModel dx="1123" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-2" value="Sid" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xEg9DxGpJhQ12IQhxB_p-3" value="LName" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="xEg9DxGpJhQ12IQhxB_p-3" value="FName" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-4" value="Bdate" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-28" value="Grade" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xEg9DxGpJhQ12IQhxB_p-39" value="FName" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="xEg9DxGpJhQ12IQhxB_p-39" value="LName" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="300" y="160" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xEg9DxGpJhQ12IQhxB_p-42" value="Book_ISBN" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=0" vertex="1" parent="1">
