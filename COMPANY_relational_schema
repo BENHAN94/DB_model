@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T12:40:57.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="K-3BUGbqsYBvb5djkBCU" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T12:43:16.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="g-Siu_EOhQ75AKyGnLT4" version="13.7.8" type="github">
   <diagram id="_oSCCb7gwDt7Cm79Oy66" name="Page-1">
     <mxGraphModel dx="1466" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -43,17 +43,14 @@
         <mxCell id="BE84jKamstAkFmtADG6z-26" value="Episode_number" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="510" y="430" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-27" value="WROKS_ON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="240" y="520" width="130" height="30" as="geometry" />
+        <mxCell id="BE84jKamstAkFmtADG6z-27" value="VERSION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-28" value="Essn" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="240" y="550" width="60" height="40" as="geometry" />
+        <mxCell id="BE84jKamstAkFmtADG6z-28" value="Version_id" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="240" y="550" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-30" value="Pno" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="300" y="550" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-31" value="Hours" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="360" y="550" width="60" height="40" as="geometry" />
+        <mxCell id="BE84jKamstAkFmtADG6z-31" value="Version_title" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="340" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BE84jKamstAkFmtADG6z-32" value="DEPENDENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="240" y="640" width="130" height="30" as="geometry" />
@@ -111,6 +108,12 @@
         </mxCell>
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-16" value="Episode_name" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="680" y="430" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-17" value="Localized_title" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-18" value="Localized_title" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="620" y="550" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
