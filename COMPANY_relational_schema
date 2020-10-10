@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T13:17:46.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="2GhBqe87JvA7Llq3FAc-" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T13:18:35.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="qtVbi-kDZ1Ll1yB9tndH" version="13.7.8" type="github">
   <diagram id="_oSCCb7gwDt7Cm79Oy66" name="Page-1">
-    <mxGraphModel dx="1026" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +247,8 @@
               <mxPoint x="600" y="1040" />
               <mxPoint x="600" y="1070" />
               <mxPoint x="1210" y="1070" />
-              <mxPoint x="1210" y="107" />
+              <mxPoint x="1210" y="120" />
+              <mxPoint x="320" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -270,8 +271,9 @@
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-64" value="SUBSCRIBE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="245" y="1330" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VT4IiVteXwkYXA_4Xh8X-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VT4IiVteXwkYXA_4Xh8X-65" target="VT4IiVteXwkYXA_4Xh8X-35">
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VT4IiVteXwkYXA_4Xh8X-65">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324" y="1280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="275" y="1430" />
               <mxPoint x="450" y="1430" />
