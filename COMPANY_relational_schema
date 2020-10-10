@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T13:17:11.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="8QP0HRHxatqKZkGw8Ipi" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T13:17:46.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="2GhBqe87JvA7Llq3FAc-" version="13.7.8" type="github">
   <diagram id="_oSCCb7gwDt7Cm79Oy66" name="Page-1">
     <mxGraphModel dx="1026" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -270,8 +270,28 @@
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-64" value="SUBSCRIBE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="245" y="1330" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VT4IiVteXwkYXA_4Xh8X-65" target="VT4IiVteXwkYXA_4Xh8X-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="1430" />
+              <mxPoint x="450" y="1430" />
+              <mxPoint x="450" y="1310" />
+              <mxPoint x="324" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-65" value="mem" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="240" y="1360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VT4IiVteXwkYXA_4Xh8X-66" target="VT4IiVteXwkYXA_4Xh8X-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="1420" />
+              <mxPoint x="850" y="1420" />
+              <mxPoint x="850" y="920" />
+              <mxPoint x="331" y="920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-66" value="email" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="310" y="1360" width="70" height="40" as="geometry" />
