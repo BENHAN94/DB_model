@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T12:33:10.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="rXVjolPkT0TG73QMdeGG" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T12:40:52.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="lyLvXkjy7jTn2IQxZKIh" version="13.7.8" type="github">
   <diagram id="_oSCCb7gwDt7Cm79Oy66" name="Page-1">
     <mxGraphModel dx="1466" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -31,20 +31,17 @@
         <mxCell id="BE84jKamstAkFmtADG6z-20" value="Actor_id" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="240" y="310" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-22" value="PROJECT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="BE84jKamstAkFmtADG6z-22" value="EPISODE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-23" value="Pname" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="240" y="430" width="90" height="40" as="geometry" />
+        <mxCell id="BE84jKamstAkFmtADG6z-23" value="Episode_id" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="240" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-24" value="Pnumber" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="330" y="430" width="90" height="40" as="geometry" />
+        <mxCell id="BE84jKamstAkFmtADG6z-25" value="Season_number" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="360" y="430" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-25" value="Plocation" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="420" y="430" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BE84jKamstAkFmtADG6z-26" value="Dnum" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="510" y="430" width="90" height="40" as="geometry" />
+        <mxCell id="BE84jKamstAkFmtADG6z-26" value="Episode_number" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="510" y="430" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BE84jKamstAkFmtADG6z-27" value="WROKS_ON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="240" y="520" width="130" height="30" as="geometry" />
@@ -108,6 +105,12 @@
         </mxCell>
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-14" value="Actor_sex" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-15" value="Known_for_titles" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="680" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-16" value="Episode_name" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
