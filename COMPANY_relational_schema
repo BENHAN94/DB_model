@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T12:49:54.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="ruXo39WboIJQkaRIA_dI" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T12:51:20.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="kmEV-e-bQpDRV9Fm6Mtd" version="13.7.8" type="github">
   <diagram id="_oSCCb7gwDt7Cm79Oy66" name="Page-1">
     <mxGraphModel dx="1466" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -108,6 +108,30 @@
         </mxCell>
         <mxCell id="VT4IiVteXwkYXA_4Xh8X-18" value="Language" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-21" value="ACCOUNT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="770" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-22" value="Email_add" style="whiteSpace=wrap;html=1;align=center;fontSize=19;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-23" value="Last_name" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="455" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-24" value="First_name" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="345" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-25" value="Birthday" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="575" y="800" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-26" value="Sex" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="680" y="800" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-27" value="Password" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="740" y="800" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VT4IiVteXwkYXA_4Xh8X-28" value="Phone" style="whiteSpace=wrap;html=1;align=center;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="845" y="800" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
